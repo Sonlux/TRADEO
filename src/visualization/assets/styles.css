@@ -1,0 +1,9 @@
+/* Custom styles for the dashboard */
+.stock-list-item {
+    cursor: pointer !important;
+}
+
+.scrollable-stock-list {
+    max-height: 200px;
+    overflow-y: auto;
+}
